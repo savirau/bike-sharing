@@ -2,7 +2,9 @@
 ## Daftar Isi
 1. [Overview](#Overview)
 2. [Project Structure](#ProjectStucture)
-   - [Sub Bagian 2.1](#sub-bagian-21)
+3. [Installation](#Installation)
+4. [Usage](#Usage)
+5. [Data Source](#Installation)
  ## Overview 
 This is a project about data analysis and visualization using Streamlit. In this case, the data analyzed includes wrangling (which includes gathering, assessing, and cleaning), exploratory data analysis (EDA), and visualization & exploratory analysis. The data analyzed is the bike sharing dataset.
 
@@ -17,11 +19,11 @@ This is a project about data analysis and visualization using Streamlit. In this
 
 ## Installation
 1. Clone this repository to your local machine:
-Git clone [https://github.com/savirau/bike-sharing.git](https://github.com/savirau/bike-sharing.git)
+Git clone https://github.com/savirau/bike-sharing.git
 2. Go to project directory
 cd bike-sharing
 3. Install the required Python packages by running:
-pip install -r rquirement.txt
+pip install -r requirements.txt
 
 ## Usage
 1. Data Wrangling: Data wrangling scripts are available in the https://github.com/savirau/bike-sharing/blob/main/notebook.ipynb file to prepare and clean the data.
@@ -35,5 +37,5 @@ streamlit run bike_sharing.py
 Access the dashboard in your web browser at https://bike-sharing-bce4psxrcdpqxphpfcarbu.streamlit.app/ 
 
 ## Data Sources
-The project uses Bike Sharing Dataset from [Belajar Analisis Data dengan Python's Final Project](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset) offered by [Dicoding] (dicoding.com)
+The project uses Bike Sharing Dataset from [Belajar Analisis Data dengan Python's Final Project](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset) offered by [Dicoding] (https://www.dicoding.com)
 
