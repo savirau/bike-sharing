@@ -18,7 +18,8 @@ This is a project about data analysis and visualization using Streamlit. In this
 
 ## Installation
 1. Clone this repository to your local machine:
-Git clone ```
+Git clone
+```
 https://github.com/savirau/bike-sharing.git
 ```
 3. Go to project directory
