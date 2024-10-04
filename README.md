@@ -45,5 +45,5 @@ streamlit run bike_sharing.py
 Access the dashboard in your web browser at ```https://bike-sharing-bce4psxrcdpqxphpfcarbu.streamlit.app/ ```
 
 ## Data Sources
-The project uses Bike Sharing Dataset from [Belajar Analisis Data dengan Python's Final Project](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset) offered by [Dicoding] (https://www.dicoding.com/).
+The project uses Bike Sharing Dataset from [Belajar Analisis Data dengan Python's Final Project](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset) offered by [Dicoding](https://www.dicoding.com/).
 
