@@ -18,11 +18,17 @@ This is a project about data analysis and visualization using Streamlit. In this
 
 ## Installation
 1. Clone this repository to your local machine:
-Git clone ```https://github.com/savirau/bike-sharing.git```
+Git clone ```
+https://github.com/savirau/bike-sharing.git
+```
 3. Go to project directory
-```cd bike-sharing```
+```
+cd bike-sharing
+```
 4. Install the required Python packages by running:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 1. Data Wrangling: Data wrangling scripts are available in the ```notebook.ipynb``` file to prepare and clean the data.
@@ -30,8 +36,10 @@ Git clone ```https://github.com/savirau/bike-sharing.git```
 Exploratory Data Analysis (EDA): Explore and analyze the data using the provided Python scripts. EDA insights can guide your understanding of air quality public data patterns.
 
 Visualization: Run the Streamlit dashboard for interactive data exploration:
-```cd notebook.ipynb/Dashboard
-streamlit run bike_sharing.py```
+```
+cd notebook.ipynb/Dashboard
+streamlit run bike_sharing.py
+```
 
 Access the dashboard in your web browser at ```https://bike-sharing-bce4psxrcdpqxphpfcarbu.streamlit.app/ ```
 
