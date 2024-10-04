@@ -34,9 +34,9 @@ pip install -r requirements.txt
 ## Usage
 1. Data Wrangling: Data wrangling scripts are available in the ```notebook.ipynb``` file to prepare and clean the data.
 
-Exploratory Data Analysis (EDA): Explore and analyze the data using the provided Python scripts. EDA insights can guide your understanding of air quality public data patterns.
+2. Exploratory Data Analysis (EDA): Explore and analyze the data using the provided Python scripts. EDA insights can guide your understanding of air quality public data patterns.
 
-Visualization: Run the Streamlit dashboard for interactive data exploration:
+3. Visualization: Run the Streamlit dashboard for interactive data exploration:
 ```
 cd notebook.ipynb/Dashboard
 streamlit run bike_sharing.py
@@ -45,5 +45,5 @@ streamlit run bike_sharing.py
 Access the dashboard in your web browser at ```https://bike-sharing-bce4psxrcdpqxphpfcarbu.streamlit.app/ ```
 
 ## Data Sources
-The project uses Bike Sharing Dataset from [Belajar Analisis Data dengan Python's Final Project](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset) offered by [Dicoding] (https://www.dicoding.com)
+The project uses Bike Sharing Dataset from [Belajar Analisis Data dengan Python's Final Project](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset) offered by [Dicoding] (https://www.dicoding.com/)
 
