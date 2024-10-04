@@ -19,7 +19,8 @@ This is a project about data analysis and visualization using Streamlit. In this
 
 ## Installation
 1. Clone this repository to your local machine:
-Git clone ```bash https://github.com/savirau/bike-sharing.git
+Git clone ```bash
+https://github.com/savirau/bike-sharing.git
 3. Go to project directory
 cd bike-sharing
 4. Install the required Python packages by running:
